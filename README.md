@@ -1,2 +1,2 @@
-# turizm
+# tourizm
  Tousrism-LandingPage
