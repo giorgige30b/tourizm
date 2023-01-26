@@ -106,3 +106,16 @@ nav ul{
     justify-content: space-between;
     gap: 50%;
 }
+.fa-bars{
+    display: none;
+    font-size: 40px;
+    cursor: pointer;
+}
+@media ( max-width: 768px ){
+    nav{
+        display: none;
+    }
+    .fa-bars{
+        display: flex;
+    }
+}
